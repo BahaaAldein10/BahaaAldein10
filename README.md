@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey, I'm Bahaa Eldin<br><br>Crafting AI-Powered Experiences That Scale | Full-Stack Software Engineer
+## 👋 Hey, I'm Bahaa Aldein<br><br>Crafting AI-Powered Experiences That Scale | Full-Stack Software Engineer
 
 ### Crafting AI-Powered Experiences That Scale | Full-Stack Engineer Who Ships
 
