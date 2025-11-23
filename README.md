@@ -1,8 +1,6 @@
 # 💫 About Me:
 ## 👋 Hey, I'm Bahaa Aldein<br><br>Crafting AI-Powered Experiences That Scale | Full-Stack Software Engineer
 
-### Crafting AI-Powered Experiences That Scale | Full-Stack Engineer Who Ships
-
 *Building the future of SaaS, one commit at a time*<br><br>**Portfolio:** [bahaaaldein.vercel.app](https://bahaaaldein.vercel.app) | **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bahaa-el-din-baz-26a051296) | **Email:** bahaa.eldin.dev@gmail.com
 
 ---
